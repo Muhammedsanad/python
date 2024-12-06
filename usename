@@ -1,0 +1,5 @@
+username=input("Enter a mame=")
+def clean_name(name):
+    return name.strip()
+corrected=clean_name(username)
+print(corrected)

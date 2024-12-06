@@ -1,0 +1,3 @@
+def bmi(num1,num2): #num1=wegiht #num2=height
+    print(num1/num2**2)
+bmi(180,30)
